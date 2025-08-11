@@ -1,0 +1,13 @@
+.header{
+    background-color:#1F2937;
+    font:'Roboto';
+    font-weight:24px;
+    color:#F9FAF8;
+    padding:16px;
+}
+
+body{
+    margin:0;
+    padding:0;
+}
+
